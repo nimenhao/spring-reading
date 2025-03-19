@@ -2,7 +2,7 @@
     <img alt="logo" src="image/banner.png" style="height: 80px">
 </div>
 <div align="center">
-    <h2>深入Spring，从源码开始！</h2>
+    <h2>深入Spring，从源码开始！！！</h2>
     <h4>探索Java最受欢迎的框架，理解它的内部机制，带大家从入门到精通。</h4>
 </div>
 <p align="center">
